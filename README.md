@@ -1,5 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
+My name is Ali Hamza Azam. I am currently taking taking a BS CS degree.
+
+I am currently studying c++, python, css and html and trying my best to improve my coding skill.
 <!--
 **AliHamzaAzam/AliHamzaAzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
