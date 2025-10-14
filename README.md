@@ -93,7 +93,7 @@ I'm a software developer who loves building things that matter. Whether it's cra
 </div>
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -106,7 +106,7 @@ I'm a software developer who loves building things that matter. Whether it's cra
 </p>
 
 ---
-
+-->
 ## ⭐ Featured Projects
 
 <div align="center">
