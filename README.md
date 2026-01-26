@@ -29,7 +29,7 @@ I'm a software developer who loves building things that matter. Whether it's cra
 - 💬 Let's talk about **C++, Java, Python, Vue.js** — or anything tech!
 - 🌱 Currently exploring: **Machine Learning**, **Blockchain**, **Cloud Architecture**
 - 🎯 Fun fact: I believe the best code is the code you don't have to write
-- 📫 Reach me at: [azaleasazam@icloud.com](mailto:azaleasazam@icloud.com)
+- 📫 Reach me at: [contact@alihamzaazam.com](mailto:contact@alihamzaazam.com)
 
 ---
 
