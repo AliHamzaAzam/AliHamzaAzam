@@ -57,11 +57,4 @@ hpc        = ["MPI", "OpenMP", "SIMD", "pthreads"]
 also       = ["WebSockets", "OAuth", "System Design", "RAG", "PKI"]
 ```
 
----
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliHamzaAzam&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=60a5fa&text_color=8b949e&ring_color=22d3ee&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamzaAzam&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=8b949e&langs_count=6&cache_seconds=86400)
-
-</div>
+<img src="./footer.svg" width="100%" alt="footer" />
