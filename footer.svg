@@ -1,0 +1,19 @@
+<svg viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="waveGrad" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#22d3ee"/>
+      <stop offset="40%"  stop-color="#38bdf8"/>
+      <stop offset="75%"  stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0d1117" rx="8"/>
+  <path
+    d="M 0,30 C 39,8 73,8 112,30 C 151,52 185,52 225,30 C 264,8 298,8 337,30 C 376,52 410,52 450,30 C 489,8 523,8 562,30 C 601,52 635,52 675,30 C 714,8 748,8 787,30 C 826,52 860,52 900,30"
+    fill="none"
+    stroke="url(#waveGrad)"
+    stroke-width="5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
