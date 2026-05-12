@@ -27,6 +27,7 @@ security    →  RSA / AES / PKI, E2E encryption, privacy-first architecture
 | project | what it does |
 |:---|:---|
 | [**montage-ai**](https://github.com/alihamzaazam/montage-ai) | AI video pipeline — LangGraph multi-agent, Gemini Flash, FastAPI, React |
+| [**crag-bench-rag**](https://github.com/alihamzaazam/crag-bench-rag-strategies) | 6 RAG strategies benchmarked on noisy web corpora (HyDE, Fusion, CRAG…) |
 | [**Zeta**](https://github.com/alihamzaazam/Zeta) | Readable programming language — lexer, scope-aware symbol tables, regex engine with automata |
 | [**chattr**](https://github.com/alihamzaazam/chattr) | Real-time E2E encrypted chat — RSA key exchange, Nuxt 3, Supabase, delivery receipts |
 | [**ipfs-dht-simulator**](https://github.com/alihamzaazam/ipfs-dht-simulator) | Ring DHT with O(log N) routing tables and B-tree local indexing |
@@ -34,15 +35,14 @@ security    →  RSA / AES / PKI, E2E encryption, privacy-first architecture
 | [**multimodal-rag**](https://github.com/alihamzaazam/multimodal-rag) | Multimodal retrieval — CLIP embeddings, FAISS search, MLX-powered Mistral LLM |
 | [**cyclegan-face-sketch**](https://github.com/alihamzaazam/cyclegan-face-sketch) | Bidirectional face↔sketch translation — CycleGAN + Flask UI |
 | [**pacman-sfml**](https://github.com/alihamzaazam/pacman-sfml-multithreaded) | Multithreaded Pac-Man — pthreads, mutexes, semaphores |
+| [**semantic-search-module**](https://github.com/alihamzaazam/semantic-search-module) | Embedding strategies benchmarked across FAISS & Chroma, visualized in Streamlit |
+| [**nlp-urdu-poetry-mlx**](https://github.com/alihamzaazam/nlp-urdu-poetry-mlx) | Urdu poetry generation — RNN / LSTM / Transformer trained with MLX |
+| [**pulselog**](https://github.com/alihamzaazam/pulselog) | Uptime monitor — Laravel 12, scheduled health checks, public status pages |
 
 <!--
 private — I'll uncomment these when I make these repositories public 
-position 2:  | [**crag-bench-rag**](https://github.com/alihamzaazam/crag-bench-rag-strategies) | 6 RAG strategies benchmarked on noisy web corpora (HyDE, Fusion, CRAG…) |
 position 4:  | [**TinyAgent**](https://github.com/alihamzaazam/TinyAgent) | Local-first AI agent — tool use, memory, runs entirely on-device |
 position 5:  | [**warpcore**](https://github.com/alihamzaazam/SIMD_MPI_Optimization) | HPC numerical algorithms — SIMD vectorisation + MPI distributed compute in C++ |
-position 10: | [**semantic-search-module**](https://github.com/alihamzaazam/semantic-search-module) | Embedding strategies benchmarked across FAISS & Chroma, visualized in Streamlit |
-position 11: | [**nlp-urdu-poetry-mlx**](https://github.com/alihamzaazam/nlp-urdu-poetry-mlx) | Urdu poetry generation — RNN / LSTM / Transformer trained with MLX |
-position 13: | [**pulselog**](https://github.com/alihamzaazam/pulselog) | Uptime monitor — Laravel 12, scheduled health checks, public status pages |
 -->
 
 ---
