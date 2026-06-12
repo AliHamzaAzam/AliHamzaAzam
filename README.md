@@ -39,12 +39,6 @@ security    →  RSA / AES / PKI, E2E encryption, privacy-first architecture
 | [**nlp-urdu-poetry-mlx**](https://github.com/alihamzaazam/nlp-urdu-poetry-mlx) | Urdu poetry generation — RNN / LSTM / Transformer trained with MLX |
 | [**pulselog**](https://github.com/alihamzaazam/pulselog) | Uptime monitor — Laravel 12, scheduled health checks, public status pages |
 
-<!--
-private — I'll uncomment these when I make these repositories public 
-position 4:  | [**TinyAgent**](https://github.com/alihamzaazam/TinyAgent) | Local-first AI agent — tool use, memory, runs entirely on-device |
-position 5:  | [**warpcore**](https://github.com/alihamzaazam/SIMD_MPI_Optimization) | HPC numerical algorithms — SIMD vectorisation + MPI distributed compute in C++ |
--->
-
 ---
 
 ```python
